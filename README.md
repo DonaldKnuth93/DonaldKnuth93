@@ -1,4 +1,4 @@
-###Ahoy, I'm Jika - The NLP Ninja 🤖🐍
+### Ahoy, I'm Jika - The NLP Ninja 🤖🐍
 
 Welcome to my code dojo, where Python is my trusty sidekick, and Natural Language Processing (NLP) is my secret treasure map! 🏴‍☠️🗺️
 
