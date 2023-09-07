@@ -1,4 +1,6 @@
-# Ahoy, I'm Jika - The NLP Ninja 🤖🐍
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=# Ahoy, I'm Jika - The NLP Ninja 🤖🐍&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 Welcome to my code dojo, where Python is my trusty sidekick, and Natural Language Processing (NLP) is my secret treasure map! 🏴‍☠️🗺️
 
