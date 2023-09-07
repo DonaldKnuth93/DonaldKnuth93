@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=#Ahoy, I'm Jika - The NLP Ninja 🤖🐍&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+#Ahoy, I'm Jika - The NLP Ninja 🤖🐍
 
 Welcome to my code dojo, where Python is my trusty sidekick, and Natural Language Processing (NLP) is my secret treasure map! 🏴‍☠️🗺️
 
